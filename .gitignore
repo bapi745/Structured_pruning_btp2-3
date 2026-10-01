@@ -21,3 +21,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+cifer100_mobilenetv2.zip
+cifer10_mobilenetv2.zip
